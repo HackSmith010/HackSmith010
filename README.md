@@ -15,9 +15,10 @@
 
 ## 🚀 About Me  
 - 🔭 I’m currently working on **[Dhvani](https://github.com/yourproject)**
-- 🌱 I’m currently learning **Next.js**
-- 💬 Ask me about **Python, Machine Learning**
+- 🌱 I’m currently learning **Next.js & WebRTC**
+- 💬 Ask me about **Python, Machine Learning, Web Development**
 - 📫 Reach me at **techster29@gmail.com**
+- 🎯 Exploring **AI & Blockchain**
 
 ---
 
@@ -25,6 +26,9 @@
 <p align="left">
   <a href="https://linkedin.com/in/anshu-jaiswal-893312296" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/hacksmith_010" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
 
@@ -53,6 +57,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 
 ---
 
@@ -67,6 +72,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hacksmith010&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=hacksmith010&theme=github" alt="GitHub Contribution Graph" />
 </p>
 
 ---
