@@ -14,11 +14,10 @@
 ---
 
 ## 🚀 About Me  
-- 🔭 I’m currently working on **[Dhvani](https://github.com/yourproject)**
-- 🌱 I’m currently learning **Next.js & WebRTC**
+- 🌱 I’m currently learning **Advance Machine Learning Fundamentals**
 - 💬 Ask me about **Python, Machine Learning, Web Development**
 - 📫 Reach me at **techster29@gmail.com**
-- 🎯 Exploring **AI & Blockchain**
+- 🎯 Exploring **AI & Machine Learning**
 
 ---
 
