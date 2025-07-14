@@ -72,11 +72,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hacksmith010&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=hacksmith010&theme=github" alt="GitHub Contribution Graph" />
-</p>
-
 ---
 
 ⭐ **Keep Coding & Innovating!** 🚀
