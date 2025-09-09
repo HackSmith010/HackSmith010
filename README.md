@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anshu Jaiswal a.k.a HackSmith...</h1>
+<h1 align="center">Hi 👋, I'm Anshu Jaiswal a.k.a HackSmith....</h1>
 <h3 align="center">Passionate about coding, open-source, and solving real-world problems</h3>
 
 <p align="center">
